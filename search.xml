@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>docker笔记</title>
+      <link href="/2022/01/01/docker%E7%AC%94%E8%AE%B0/"/>
+      <url>/2022/01/01/docker%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>启动docker容器</p><pre><code>docker run -t -i docker.io/名称 /bin/bash</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2021/12/31/hello-world/"/>
       <url>/2021/12/31/hello-world/</url>
